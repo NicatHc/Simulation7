@@ -149,3 +149,4 @@ C:\Users\ASUS\source\repos\RealSimulation7\RealSimulation7\bin\Debug\net8.0\Micr
 C:\Users\ASUS\source\repos\RealSimulation7\RealSimulation7\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\ASUS\source\repos\RealSimulation7\RealSimulation7\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\ASUS\source\repos\RealSimulation7\RealSimulation7\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\source\repos\RealSimulation7\RealSimulation7\obj\Debug\net8.0\RealSimulation7.sourcelink.json

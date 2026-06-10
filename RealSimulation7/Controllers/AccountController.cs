@@ -1,11 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RealSimulation7.Models;
 using RealSimulation7.Utilities.Enums;
 using RealSimulation7.ViewModels.Account;
-using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace RealSimulation7.Controllers
 {
@@ -13,12 +12,12 @@ namespace RealSimulation7.Controllers
     {
         public readonly UserManager<AppUser> _userManager;
         public readonly SignInManager<AppUser> _signInManager;
-        public readonly RoleManager<AppUser> _roleManager;
+        public RoleManager<IdentityRole> _roleManager;
 
-        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<AppUser> roleManager)
+        public AccountController(SignInManager<AppUser> signInManager, UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager)
         {
-            _userManager = userManager;
             _signInManager = signInManager;
+            _userManager = userManager;
             _roleManager = roleManager;
         }
 
@@ -31,7 +30,7 @@ namespace RealSimulation7.Controllers
         {
             if(!ModelState.IsValid)
             {
-                return View(registerVM);
+                return View();
             }
 
             AppUser appUser = new AppUser
@@ -42,26 +41,24 @@ namespace RealSimulation7.Controllers
 
             IdentityResult result = await _userManager.CreateAsync(appUser, registerVM.Password);
 
-            if(!result.Succeeded)
+            if (!result.Succeeded)
             {
-                foreach(IdentityError error in  result.Errors)
+                foreach(IdentityError error in result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
-                return View(registerVM);
+                return View();
             }
 
             await _signInManager.SignInAsync(appUser, false);
             return RedirectToAction(nameof(HomeController.Index), "Home");
         }
 
-        public async Task<IActionResult> LogOut()
+        public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
             return RedirectToAction(nameof(HomeController.Index), "Home");
         }
-
-
 
 
         public IActionResult Login()
@@ -75,30 +72,30 @@ namespace RealSimulation7.Controllers
             {
                 return View();
             }
-
             AppUser user = await _userManager.Users.FirstOrDefaultAsync(u => u.UserName == loginVM.UserNameOrEmail || u.Email == loginVM.UserNameOrEmail);
+
             if (user == null)
             {
-                ModelState.AddModelError(string.Empty, "Incorrect Email/NickName");
+                ModelState.AddModelError(string.Empty, "mail or username xetali");
                 return View();
             }
 
-            var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, isPersistent: false, true);
-
-            if (result.IsLockedOut)
-            {
-                ModelState.AddModelError(string.Empty, "BLOK");
-                return View();
-            }
-
+            var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password,isPersistent: false, true);
             if (result.Succeeded)
             {
                 return RedirectToAction("Index", "Home");
             }
 
-            ModelState.AddModelError(string.Empty, "SEH PAROL");
+            if(result.IsLockedOut)
+            {
+                ModelState.AddModelError(string.Empty, "blok");
+                return RedirectToAction("Index", "Home");
+            }
+
+            ModelState.AddModelError(string.Empty, "password problem");
             return View();
         }
+
 
 
         public async Task<IActionResult> CreateRole()
@@ -107,13 +104,10 @@ namespace RealSimulation7.Controllers
             {
                 if (!await _roleManager.RoleExistsAsync(role.ToString()))
                 {
-
                     await _roleManager.CreateAsync(new IdentityRole { Name = role.ToString() });
                 }
             }
             return RedirectToAction(nameof(HomeController.Index), "Index");
         }
     }
-}
-    
 }
