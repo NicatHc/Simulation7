@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610135358_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealSimulation7\\Migrations\\20260610135358_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\worker\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\viewmodels\\worker\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\viewmodels\\worker\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610112814_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RealSimulation7\\Migrations\\20260610112814_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|c:\\users\\asus\\source\\repos\\realsimulation7\\realsimulation7\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330297D4-8B79-4D5A-9848-9209299A541D}|RealSimulation7\\RealSimulation7.csproj|solutionrelative:realsimulation7\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RealSimulation7\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwGcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:46:42.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "RealSimulation7\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:11:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T13:39:20.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:38:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:39:01.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T14:56:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMwCAAAAAAAAAAAjwOMCAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:22:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260610135358_init2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610135358_init2.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Migrations\\20260610135358_init2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610135358_init2.cs",
+              "RelativeToolTip": "RealSimulation7\\Migrations\\20260610135358_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:53:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:22:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:39:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T12:07:45.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T12:25:28.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RealSimulation7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:20:00.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "RealSimulation7\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:41:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "RealSimulation7\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:41:31.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\AppUser.cs",
+              "RelativeToolTip": "RealSimulation7\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:29:57.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "RealSimulation7\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:20:08.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:59:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "RealSimulation7\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:13:29.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Program.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Program.cs",
+              "RelativeToolTip": "RealSimulation7\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:17:44.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAANUAAAAAAAAAAAAcwO8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:39:33.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Utilities\\Extentions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeToolTip": "RealSimulation7\\Utilities\\Extentions\\FileValidator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:37:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:39:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:40:02.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RealSimulation7\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RealSimulation7\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:21:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "RealSimulation7\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:36:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Worker\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\ViewModels\\Worker\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Worker\\UpdateVM.cs",
+              "RelativeToolTip": "RealSimulation7\\ViewModels\\Worker\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:36:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Worker\\CreateVM.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\ViewModels\\Worker\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\ViewModels\\Worker\\CreateVM.cs",
+              "RelativeToolTip": "RealSimulation7\\ViewModels\\Worker\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:36:14.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260610112814_init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610112814_init.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Migrations\\20260610112814_init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Migrations\\20260610112814_init.cs",
+              "RelativeToolTip": "RealSimulation7\\Migrations\\20260610112814_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:28:14.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\Worker.cs",
+              "RelativeToolTip": "RealSimulation7\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:15:49.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\appsettings.json",
+              "RelativeDocumentMoniker": "RealSimulation7\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\appsettings.json",
+              "RelativeToolTip": "RealSimulation7\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T11:18:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RealSimulation7\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RealSimulation7\\RealSimulation7\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "RealSimulation7\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:14:41.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

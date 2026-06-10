@@ -1,0 +1,23 @@
+﻿@using RealSimulation7.ViewModels.Worker
+@model UpdateVM
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+        <span  asp-validation-for="Name" style="color:red"></span>
+
+        <label>Job</label>
+                <input asp-for="Job" type="text" class="form-control" placeholder="Job">
+        <span  asp-validation-for="Job" style="color:red"></span>
+
+        <label>Current Photo</label>
+        <img src="~/assets/img/team/@Model.Image" class="img-fluid" alt="">
+        
+        <label>New Photo</label>
+        <input asp-for="Photo" class="form-control" placeholder="Photo">
+        <span asp-validation-for="Photo" style="color:red"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

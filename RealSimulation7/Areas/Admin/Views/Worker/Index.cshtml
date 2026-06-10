@@ -1,0 +1,40 @@
+﻿@model List<Worker>
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Basic Table</h4>
+            <p class="card-description">
+                Add class <code>.table</code>
+            </p>
+            <div class="table-responsive">
+                <table class="table">
+                    <a asp-action="Create" class="btn btn-primary">Create</a>
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <th>Job</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Worker worker in Model)
+                        {
+                            <tr>
+                                <td><img src="~/assets/img/team/@worker.Image" class="img-fluid" alt=""></td>
+                                <td>@worker.Name</td>
+                                <td>@worker.Job</td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@worker.Id" class="btn btn-primary" >Update</a>
+                                    <a asp-action="Delete" asp-route-id="@worker.Id" class="btn btn-primary">Delete</a>
+                                    <a asp-action="Detail" asp-route-id="@worker.Id" class="btn btn-primary">Detail</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
